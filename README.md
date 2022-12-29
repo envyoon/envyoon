@@ -25,7 +25,7 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=badge-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yoonpro220@gmail.com)   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-20C997?style=badge-square&logo=velog&&logoColor=white&link=https://https://velog.io/@krafftdj/)](https://velog.io/@krafftdj) <img src="https://img.shields.io/badge/github-181717?style=badge&logo=github&logoColor=white">
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envyoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envyoon&layout=compact)
  
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=envyoon&show_icons=true&theme=radical)
