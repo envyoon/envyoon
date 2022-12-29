@@ -8,6 +8,7 @@
 
 
 🌱Other page🌱
+
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=badge-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yoonpro220@gmail.com)  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-20C997?style=badge-square&logo=velog&&logoColor=white&link=https://https://velog.io/@krafftdj/)](https://velog.io/@krafftdj)<img src="https://img.shields.io/badge/github-181717?style=badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=badge&logo=git&logoColor=white"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=envyoon&show_icons=true&theme=radical)
