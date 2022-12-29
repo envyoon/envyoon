@@ -1,19 +1,22 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=envyoon%20start&fontSize=70)
 
-# SNS
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yoonpro220@gmail.com)  [![Tech Blog Badge](http://img.shields.io/badge/-velog-000000?style=flat-square&logo=velog&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=envyoon%20github!&fontSize=70)
 
-# Stack
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
+ 
+#F7DF1E
+
+# Stack Skills
+
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+
+### Blog
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yoonpro220@gmail.com)  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-20C997?style=flat-square&logo=velog&&logoColor=white&link=https://https://velog.io/@krafftdj/)](https://velog.io/@krafftdj)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=envyoon&show_icons=true&theme=radical)
 
 
-
-
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=&fontSize=70)
 
 
 
