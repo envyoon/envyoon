@@ -3,7 +3,7 @@
   
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=4aa8d8&height=150&section=header&text=envyoon%20github!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4aa8d8&height=150&section=header&text=Envyoon%20Github!&fontSize=70)
 
 
 ### ⚡Stack⚡
@@ -20,7 +20,7 @@
 
  
  
-### 🔭Other page🔭
+### ✨Other page✨
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=badge-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yoonpro220@gmail.com)   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-20C997?style=badge-square&logo=velog&&logoColor=white&link=https://https://velog.io/@krafftdj/)](https://velog.io/@krafftdj) <img src="https://img.shields.io/badge/github-181717?style=badge&logo=github&logoColor=white">
 
