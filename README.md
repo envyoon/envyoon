@@ -16,7 +16,7 @@
  
 ### 🌱Now Study🌱
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=badge&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=badge&logo=Git&logoColor=white"/> 
 
  
  
