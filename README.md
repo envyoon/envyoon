@@ -19,7 +19,7 @@
  <img src="https://img.shields.io/badge/Git-F05032?style=badge&logo=Git&logoColor=white"/> 
   
   <!-- 예정 목록 -->
-  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=badge&logo=Node.js&logoColor=white"/> -->
+  <!-- Node.js   <img src="https://img.shields.io/badge/Node.js-339933?style=badge&logo=Node.js&logoColor=white"/> -->
  
 ### ✨Other page✨
 
