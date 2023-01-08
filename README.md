@@ -13,14 +13,17 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=badge&logo=Bootstrap&logoColor=white"/>
  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=badge&logo=Oracle&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=badge&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=badge&logo=jQuery&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM-052FAD?style=badge&logo=IBM&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=badge&logo=Apache Maven&logoColor=white"/>
 
 
+### 🌱Now Study & Project🌱
+
+ <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=badge&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=badge&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=badge&logo=Oracle&logoColor=white"/>
  
-### 🌱Now Study🌱
 
- <img src="https://img.shields.io/badge/Git-F05032?style=badge&logo=Git&logoColor=white"/> 
-  
+
   <!-- 예정 목록 -->
   <!-- Node.js   <img src="https://img.shields.io/badge/Node.js-339933?style=badge&logo=Node.js&logoColor=white"/> -->
  
