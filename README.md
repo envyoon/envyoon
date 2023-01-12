@@ -33,26 +33,13 @@
 
 
 
-
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envyoon&layout=compact)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=envyoon&show_icons=true&theme=radical)
 
   
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=4aa8d8&height=150&section=footer&text=&fontSize=70)
 
 
-</div>
- 
-<!--
-**envyoon/envyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
