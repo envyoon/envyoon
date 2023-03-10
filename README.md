@@ -15,12 +15,12 @@
  
   <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=badge&logo=jQuery&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/IBM-052FAD?style=badge&logo=IBM&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=badge&logo=Apache&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=badge&logo=Apache Maven&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=badge&logo=Apache Tomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/IBM-052FAD?style=badge&logo=IBM&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=badge&logo=Apache&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=badge&logo=Apache Maven&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=badge&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=badge&logo=Apache Tomcat&logoColor=black"/>
 
 
 ### 🌱Now Study & Project🌱
 
- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=badge&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=badge&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=badge&logo=Node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=badge&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=badge&logo=Node.js&logoColor=white"/>
  
 
 
