@@ -19,7 +19,7 @@
 
 ### 🌱Now Study & Project🌱
 
- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=badge&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=badge&logo=Node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=badge&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=badge&logo=Axios&logoColor=white"/>
  
 
 
