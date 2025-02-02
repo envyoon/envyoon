@@ -36,7 +36,7 @@
 <!-- API 고장남.. -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envyoon&layout=compact)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=envyoon&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=envyoon&show_icons=true&theme=radical)-->
 
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=4aa8d8&height=150&section=footer&text=&fontSize=70)
